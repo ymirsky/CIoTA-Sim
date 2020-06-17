@@ -67,9 +67,10 @@ Avrg. time per block:  6 hours, 1 minute, 36 seconds
 Avrg. number of epochs per block:  361.2
 Years experience in current Global Model:  5 years, 26 weeks, 1 day
 Avrg. number of direct messages sent per block:  0.0
-License
-All rights reserved Yisroel Mirsky 2020. Please see the license file in the repository
 ```
+
+## License
+All rights reserved Yisroel Mirsky 2020. Please see the license file in the repository
 
 ## Full Citation
 
